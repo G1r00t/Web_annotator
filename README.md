@@ -1,5 +1,5 @@
 # Web Annotator
-**Author** : Siddhant Rohila
+**Author** : Rhythm mundra
 
 ## Abstract:
   The Web Annotator chrome extension is designed to enhance users'
